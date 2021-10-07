@@ -1,0 +1,5 @@
+name: YWeapon
+version: 1.0
+author: yuziouo
+api: [1.0.8]
+main: weapon.yuziouo.Loader
